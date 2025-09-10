@@ -1,10 +1,5 @@
 ## EXP NO:6 C PROGRAM PRINT THE LOWERCASE ENGLISH WORD CORRESPONDING TO THE NUMBER
 
-```
-Developed by: Zafreen J
-Register no: 212223040252
-
-```
 ## Aim:
 To write a C program print the lowercase English word corresponding to the number
 ## Algorithm:
@@ -94,8 +89,8 @@ printf("Greater than 13");
 
 
 ## Output:
+<img width="500" height="194" alt="image" src="https://github.com/user-attachments/assets/4d39927c-82e1-43c8-a3e9-55062b0010a0" />
 
-![image](https://github.com/user-attachments/assets/317983a2-5b0f-4246-8017-3e6928d83948)
 
 
 ## Result:
@@ -145,7 +140,8 @@ h++;
 
 
 ## Output:
-![image](https://github.com/user-attachments/assets/59cd2594-ba1b-4724-8bfd-0d553f284ae9)
+<img width="628" height="169" alt="image" src="https://github.com/user-attachments/assets/3fc9f0d6-e206-4aa6-bc2e-9f8d700441fa" />
+
 
 ## Result:
 Thus, the program is verified successfully
@@ -233,7 +229,8 @@ return 0;
 
 ## Output:
 
-![image](https://github.com/user-attachments/assets/c651b978-a5dc-476e-9048-161eedb7e0f2)
+<img width="392" height="330" alt="image" src="https://github.com/user-attachments/assets/186a1ddd-8620-41a5-865d-e66d59cdb4e9" />
+
 
 
 ## Result:
@@ -280,7 +277,8 @@ return 0;
 ```
 
 ## Output:
-![image](https://github.com/user-attachments/assets/1fa87168-8612-4094-96b9-c4ddc2f86a52)
+<img width="707" height="581" alt="image" src="https://github.com/user-attachments/assets/d97ebc9e-a130-48e4-9d47-1e859d47881f" />
+
 
 ## Result:
 Thus, the program is verified successfully
@@ -331,30 +329,5 @@ void square(){
 
 ## Result:
 Thus, the program is verified successfully
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
